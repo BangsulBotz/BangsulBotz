@@ -24,6 +24,3 @@
 ### Custom Art
 ![Alt Text](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
